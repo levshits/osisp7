@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Injection", "Injection\Injection.vcxproj", "{EE7C5A40-A342-439C-A862-47C916FE10C5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HookDll", "HookDll\HookDll.vcxproj", "{DA2F3828-A630-4390-B6A1-A766F7480B16}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestInjection", "TestInjection\TestInjection.vcxproj", "{6F0A92D7-AED2-4198-80C7-D2B3C7A1ECF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE7C5A40-A342-439C-A862-47C916FE10C5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EE7C5A40-A342-439C-A862-47C916FE10C5}.Debug|Win32.Build.0 = Debug|Win32
+		{EE7C5A40-A342-439C-A862-47C916FE10C5}.Release|Win32.ActiveCfg = Release|Win32
+		{EE7C5A40-A342-439C-A862-47C916FE10C5}.Release|Win32.Build.0 = Release|Win32
+		{DA2F3828-A630-4390-B6A1-A766F7480B16}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DA2F3828-A630-4390-B6A1-A766F7480B16}.Debug|Win32.Build.0 = Debug|Win32
+		{DA2F3828-A630-4390-B6A1-A766F7480B16}.Release|Win32.ActiveCfg = Release|Win32
+		{DA2F3828-A630-4390-B6A1-A766F7480B16}.Release|Win32.Build.0 = Release|Win32
+		{6F0A92D7-AED2-4198-80C7-D2B3C7A1ECF1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6F0A92D7-AED2-4198-80C7-D2B3C7A1ECF1}.Debug|Win32.Build.0 = Debug|Win32
+		{6F0A92D7-AED2-4198-80C7-D2B3C7A1ECF1}.Release|Win32.ActiveCfg = Release|Win32
+		{6F0A92D7-AED2-4198-80C7-D2B3C7A1ECF1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
